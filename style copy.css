@@ -7,3 +7,21 @@
 #a-propos img {
     border-radius: 50%;
 }
+
+.cartes-projets-conteneur {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.carte {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    padding: 20px;
+    border-radius: 6px;
+    width: 32%;
+}
+
+.carte h3 {
+    margin-top: 0;
+}
