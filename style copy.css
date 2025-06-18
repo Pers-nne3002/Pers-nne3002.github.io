@@ -1,0 +1,9 @@
+#a-props {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+#a-propos img {
+    border-radius: 50%;
+}
